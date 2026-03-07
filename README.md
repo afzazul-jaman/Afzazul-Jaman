@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Afzazul Jaman
 **Frontend & Fullstack Developer | Web Automation | Software Testing | Security Research**
+<img width="500" height="500" alt="react-logo-png_seeklogo-273845-removebg-preview" src="https://github.com/user-attachments/assets/672aed5e-3910-4454-a7d5-154dd2956743" />
 
 
 
 
-<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/e0130896-c11f-49c1-93bf-a18443518d98" />
