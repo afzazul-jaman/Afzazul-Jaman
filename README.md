@@ -1,23 +1,9 @@
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learn%20Until%20You%20Die" alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=afzazul-jaman">
-    <img src="https://komarev.com/ghpvc/?username=afzazul-jaman&label=Profile%20views&color=00FFFF&style=flat-square" alt="afzazul-jaman's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- Frontend & Full-Stack Developer. Web Automation & Software Testing. Cybersecurity Researcher.
+## About Me
+ Frontend & Full-Stack Developer. Web Automation & Software Testing. Cybersecurity Researcher.
 
 
-## 🧠 My Focus Areas
-- Frontend & Full-Stack Developer. Web Automation & Software Testing. Cybersecurity Researcher.
 
 
 ## 📊 GitHub Stats & Trophies
@@ -30,10 +16,7 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=afzazul-jaman&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Afzazul Jaman's GitHub Trophies" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
+ 
 
 ## 🛠️ Languages & Tools
 
@@ -59,11 +42,11 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
-ng README.md…]()
+
 
